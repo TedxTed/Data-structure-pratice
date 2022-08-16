@@ -134,3 +134,8 @@ console.log("-------------");
 a.removeAt(1);
 a.printAll();
 console.log(a);
+
+let b = new LinkList();
+b.printAll();
+b.push("cat");
+b.printAll();
